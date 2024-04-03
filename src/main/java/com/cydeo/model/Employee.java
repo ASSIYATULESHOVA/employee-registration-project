@@ -24,8 +24,9 @@ public class Employee {
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     private LocalDate birthday;
 
-    //    @NotBlank
+    //   @NotBlank
 //    @Email
+    // not
     private String email;
 
     //    @NotBlank
